@@ -88,13 +88,15 @@ public class SampleTest {
 	// A-Z-->65 to 90
 	// a-z--->97 to 122
 	// 0-9-->48 to 57
-	 
+	 System.out.println("rafi");
 	 
 		System.out.println("kannan");
 			
+
+			System.out.println("hadbdk;jnoi;dvbjbv bv bvj vn dknvandk");
 			System.out.println("rafi");
-			
 			System.out.println("kannan");
+			
 			
 			
 			
